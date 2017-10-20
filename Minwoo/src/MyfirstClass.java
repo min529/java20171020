@@ -11,6 +11,6 @@ public class MyfirstClass {
 		float f = 1.1F;
 		double d = 1.1;
 		System.out.println(Long.MAX_VALUE);
-	}
+	}dd
 
 }
