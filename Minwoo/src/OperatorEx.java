@@ -44,7 +44,7 @@ public class OperatorEx {
 		System.out.println(5 & 3);
 		System.out.println(5 | 3);
 		System.out.println(5 << 1);
-		System.out.println(5 >> 1);
+		System.out.println(5 >> 1);dd
 		
 		
 		
